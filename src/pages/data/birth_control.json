@@ -1,0 +1,42 @@
+[
+    {
+      "DrugName": "PROVERA",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "PLAN B",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "ELINEST",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "HEATHER",
+      "AverageRating": 9.7500
+    },
+    {
+      "DrugName": "FEMCON FE",
+      "AverageRating": 8.1667
+    },
+    {
+      "DrugName": "INTROVALE",
+      "AverageRating": 8.0000
+    },
+    {
+      "DrugName": "LYBREL",
+      "AverageRating": 7.8889
+    },
+    {
+      "DrugName": "ORTHO EVRA",
+      "AverageRating": 7.4703
+    },
+    {
+      "DrugName": "KYLEENA",
+      "AverageRating": 7.4636
+    },
+    {
+      "DrugName": "ORTHO-CEPT",
+      "AverageRating": 7.2727
+    }
+  ]

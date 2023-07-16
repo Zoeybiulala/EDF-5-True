@@ -1,0 +1,78 @@
+.name-card {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: lightgrey;
+}
+
+.photo {
+  flex: 0 0 auto;
+  margin-right: 16px;
+}
+
+.photo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.details {
+  flex: 1 1 auto;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0;
+}
+
+p {
+  margin: 4px 0;
+}
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.availability {
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.availability p {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.availability ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.availability ul li {
+  margin-right: 8px;
+}
+
+a .meeting{
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #4285f4;
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover .meeting{
+  background-color: #1c64f2;
+}
+
+a:active .meeting{
+  background-color: #0f4ad6;
+}

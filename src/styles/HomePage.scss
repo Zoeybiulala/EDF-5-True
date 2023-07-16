@@ -1,0 +1,54 @@
+.landing-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 32px;
+  .tab {
+    margin-top: 3rem;
+  }
+}
+
+.left-section {
+  flex: 3;
+  margin-right: 32px;
+}
+
+.right-section {
+  flex: 1;
+  max-width: 25%;
+}
+
+.portal-switch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.switch-button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  background-color: transparent;
+  color: #555;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: #333;
+  }
+
+  &.active {
+    color: #fff;
+    background-color: #2196f3;
+  }
+
+  &:not(:last-child) {
+    margin-right: 10px;
+  }
+}
+
+
+

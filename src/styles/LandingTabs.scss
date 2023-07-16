@@ -1,0 +1,31 @@
+.tabs {
+  width: 100%;
+  padding-top: 3rem;
+}
+
+.tab-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.tab-buttons button {
+  padding: 8px 16px;
+  background-color: #e0e0e0;
+  border: none;
+  border-radius: 4px;
+  margin-right: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.tab-buttons button.active {
+  background-color: #4285f4;
+  color: #fff;
+}
+
+.tab-content {
+  padding: 16px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}

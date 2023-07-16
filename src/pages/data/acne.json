@@ -1,0 +1,42 @@
+[
+    {
+      "DrugName": "SEPTRA",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "CLINDAGEL",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "ERYTHROMYCIN",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "AVITA",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "ALDACTONE",
+      "AverageRating": 9.7500
+    },
+    {
+      "DrugName": "FABIOR",
+      "AverageRating": 9.0000
+    },
+    {
+      "DrugName": "VIBRAMYCIN",
+      "AverageRating": 9.0000
+    },
+    {
+      "DrugName": "AZELEX",
+      "AverageRating": 9.0000
+    },
+    {
+      "DrugName": "DOXY 100",
+      "AverageRating": 9.0000
+    },
+    {
+      "DrugName": "BACTRIM",
+      "AverageRating": 8.9038
+    }
+  ]

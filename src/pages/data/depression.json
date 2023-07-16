@@ -1,0 +1,42 @@
+[
+    {
+      "DrugName": "NIRAVAM",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "NORPRAMIN",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "ASENDIN",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "XANAX XR",
+      "AverageRating": 10.0000
+    },
+    {
+      "DrugName": "NIACIN",
+      "AverageRating": 9.8571
+    },
+    {
+      "DrugName": "SERZONE",
+      "AverageRating": 9.8000
+    },
+    {
+      "DrugName": "METHYLIN ER",
+      "AverageRating": 9.5000
+    },
+    {
+      "DrugName": "AMOXAPINE",
+      "AverageRating": 9.5000
+    },
+    {
+      "DrugName": "LIMBITROL",
+      "AverageRating": 9.5000
+    },
+    {
+      "DrugName": "LUVOX",
+      "AverageRating": 9.3333
+    }
+  ]
