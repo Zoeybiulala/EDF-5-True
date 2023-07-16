@@ -54,7 +54,7 @@ const NavBar = ({ isUserPortal }) => {
         ]
         : [
             { path: '/', label: 'EMPortal' },
-            { path: '/faqs', label: 'FAQs' }
+            { path: '/faqs', label: 'Need Help?' }
         ];
 
     return (
